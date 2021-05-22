@@ -1,8 +1,18 @@
-.qs-link{
+.ob-whatWeDo_container {
     margin-top: 4%;
 
 }
 
-.qs-link .qs-title {
+.ob-whatWeDo_image {
+    width: 100%;
+    margin-top: -220px;
+
+}
+
+.ob-whatWeDo_title {
     text-align: center;
+}
+
+.ob-whatWeDo_text {
+    font-size: 1.3 rem;
 }

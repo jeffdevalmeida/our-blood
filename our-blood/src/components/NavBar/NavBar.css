@@ -1,18 +1,3 @@
-#ob-main-nav {
-    background-color: #F9EDED;
-    width: auto;
-}
-
-.nav-itens {
-    list-style-type: none;
-    display: inline;
-}
-
-.nav-itens li {
-    display:inline-block;
-}
-
-img {
-    width: 10%;
-    height: 10%;
+.ob_header-logo {
+    max-width: 120px;
 }
