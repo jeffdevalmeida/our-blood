@@ -6,10 +6,12 @@
 
 .ob-whoWeAre_image {
     width: 100%;
-    /* max-height: 390px;
-    max-width: 423px; */
-
 }
+.ob-UltimosDoadores_bloodtype {
+    left: 20px;
+    top: 20px;
+}
+
 .ob-UltimosDoadores_title {
     text-align: center;
 }
